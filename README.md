@@ -1,6 +1,6 @@
 # RSA-Cracker: Quadratic Sieve Factorization for Cryptanalysis
 
-**RSA-Cracker** is a powerful and sophisticated tool that implements the **Quadratic Sieve** algorithm to factor large integers, effectively exposing vulnerabilities in **RSA encryption** systems.
+**RSA-Cracker** is a powerful and sophisticated tool that implements the **Quadratic Sieve** algorithm to factor large integers, effectively exposing vulnerabilities in **RSA encryption** systems. By leveraging parallelization, it optimizes operations, significantly reducing computation time and enhancing efficiency.
 
 ## How It Works
 
